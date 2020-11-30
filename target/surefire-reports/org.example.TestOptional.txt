@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.TestOptional
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in org.example.TestOptional
+test1(org.example.TestOptional)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.example.TestOptional.test1(TestOptional.java:19)
+
